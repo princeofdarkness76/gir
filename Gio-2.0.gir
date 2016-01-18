@@ -69841,6 +69841,7 @@ calling g_socket_connectable_enumerate().</doc>
       </method>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <method name="to_string"
               c:identifier="g_socket_connectable_to_string"
               version="2.48">
@@ -69866,6 +69867,8 @@ the implementation’s type name will be returned as a fallback.</doc>
 >>>>>>> gi-rust/gnome-3-18
 =======
 >>>>>>> gi-rust/gnome-3-18
+=======
+>>>>>>> origin/gnome-3-18
     </interface>
     <record name="SocketConnectableIface"
             c:type="GSocketConnectableIface"
